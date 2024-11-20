@@ -26,7 +26,8 @@ The Coffee Sales Dashboard is a comprehensive Excel-based reporting tool that em
 
 
 This is my Excel-Project-Coffee-Sales-Dashboard
+<img width="917" alt="Coffee Sales Dashboard" src="https://github.com/user-attachments/assets/4a81c1e9-f0b9-476f-b480-922b01b9d876">
 
-<img width="917" alt="Coffee Sales Dashboard" src="https://github.com/user-attachments/assets/a7c871e9-1428-4dda-8a31-982436f8c83f">
+
 
 
